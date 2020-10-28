@@ -1,8 +1,8 @@
 """
-Exemplo de teste de threads em Python.
+H2O Problem with Python.
 
 Autor: Thais Zorawski
-Data: 16/10/2020
+Date: 16/10/2020
 """
 
 from threading import Semaphore, Thread, Lock
